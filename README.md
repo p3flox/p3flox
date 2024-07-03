@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @p3flox
-- 👀 I’m interested in coding, listening to music, playing the guitar and gaming stuff
-- 🌱 I’m currently learning PHP, JS, CSS
+- 👀 I’m interested in coding and listening to music
